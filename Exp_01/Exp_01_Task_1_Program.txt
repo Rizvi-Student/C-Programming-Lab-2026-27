@@ -7,7 +7,7 @@ int main()
     int age = 17;
     char student_class[ ] = "First year";
     char division = 'C';
-    char uin[ ] = "UIN261P0461";
+    char uin[ ] = "UIN261P046";
 
     // Printing the formatted output using escape sequences
     printf("==============================\n");
