@@ -1,5 +1,4 @@
 *.exe
-.vscode/employees.dat
-temp.dat
+.vscode/
 /employees.dat
-/temp.dat
+/temp.dats
